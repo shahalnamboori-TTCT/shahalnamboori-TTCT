@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shahalnamboori-TTCT
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Mobile App Projects
+- 📫 How to reach me at shahal@ttct.net
